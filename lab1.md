@@ -48,6 +48,6 @@ Now that you are connected to the server you can run some commands by just typin
    * Type in whichever command you want to use and click enter and it should execute the command. 
    * For example if you type in "ls -lat" command into the terminal this should be the result. 
 
- ![](command .png)
+![](command.png)
 
 
