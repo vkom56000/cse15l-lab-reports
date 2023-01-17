@@ -50,4 +50,4 @@ Now that you are connected to the server you can run some commands by just typin
 
 ![](command.png)
 
-
+Click Ctrl + D to log out of the connection.
