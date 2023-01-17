@@ -1,7 +1,7 @@
 ## Installing VS Code: 
 To install VS code go to the following website [Link](https://code.visualstudio.com/) and click the download button.
 
-![](vs code.png)
+![](vsCode.png)
 
 * My Laptop already had VS Code installed on it so I did not have to do anything in order to install VS code for this lab.
       
@@ -13,7 +13,7 @@ Once the file is downloaded open the downloaded file and accept the terms and co
 
 Once VS code is installed it will display a screen like this:
 
-![](vs code1.png)
+![](vsCode1.png)
 
 ## Remotely Connecting: 
 Look up your CSE 15L account using this link [Link](https://sdacs.ucsd.edu/~icc/index.php).
