@@ -18,7 +18,7 @@ Look up your CSE 15L account using this link ([Link](https://sdacs.ucsd.edu/~icc
    * Prove the right information and it will redirect you to your account username. 
    * Make sure to remember or save this username for later steps.
 
-![Image]([https://github.com/vkom56000/cse15l-lab-reports/blob/main/vs%20code%20.png](https://github.com/vkom56000/cse15l-lab-reports/blob/main/lookup.png))
+![Image](https://github.com/vkom56000/cse15l-lab-reports/blob/main/vs%20code%20.png](https://github.com/vkom56000/cse15l-lab-reports/blob/main/lookup.png))
    
 Install Git for windows using this link ([Link](https://gitforwindows.org/))
    * Click Download. 
@@ -45,5 +45,5 @@ Now that you are connected to the server you can run some commands by just typin
    * Type in whichever command you want to use and click enter and it should execute the command. 
    * For example if you type in "ls -lat" command into the terminal this should be the result. 
 
- ![Image]([https://github.com/vkom56000/cse15l-lab-reports/blob/main/server%20login.png](https://github.com/vkom56000/cse15l-lab-reports/blob/main/command%20.png))
+ ![Image](https://github.com/vkom56000/cse15l-lab-reports/blob/main/server%20login.png](https://github.com/vkom56000/cse15l-lab-reports/blob/main/command%20.png))
 
