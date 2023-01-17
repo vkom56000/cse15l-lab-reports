@@ -1,7 +1,7 @@
 ## Installing VS Code: 
 To install VS code go to the following website [Link](https://code.visualstudio.com/) and click the download button.
 
-![](vs code .png)
+![](vs code.png)
 
 * My Laptop already had VS Code installed on it so I did not have to do anything in order to install VS code for this lab.
       
