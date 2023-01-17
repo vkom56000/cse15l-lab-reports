@@ -1,5 +1,5 @@
 ## Installing VS Code: 
-To install VS code go to the following website ([Link](https://code.visualstudio.com/)) and click the download button.
+To install VS code go to the following website [Link](https://code.visualstudio.com/) and click the download button.
 
 ![Image](https://github.com/vkom56000/cse15l-lab-reports/blob/main/vs%20code%20.png)
 
@@ -14,7 +14,7 @@ Once the file is downloaded open the downloaded file and accept the terms and co
 Once VS code is installed it will display a screen like this
 ![Image](https://github.com/vkom56000/cse15l-lab-reports/blob/main/vs%20code1.png)
 ## Remotely Connecting: 
-Look up your CSE 15L account using this link ([Link](https://sdacs.ucsd.edu/~icc/index.php)).
+Look up your CSE 15L account using this link [Link](https://sdacs.ucsd.edu/~icc/index.php).
    * Once you click the link it should ask you for your personal school information. 
    * Prove the right information and it will redirect you to your account username. 
    * Make sure to remember or save this username for later steps.
@@ -22,7 +22,7 @@ Look up your CSE 15L account using this link ([Link](https://sdacs.ucsd.edu/~icc
 This username is shown here.
 ![Image](https://github.com/vkom56000/cse15l-lab-reports/blob/main/lookup.png)
    
-Install Git for windows using this link ([Link](https://gitforwindows.org/))
+Install Git for windows using this link [Link](https://gitforwindows.org/).
    * Click Download. 
    * Once the file is finished downloading open the file and then select the suitable preferences and finish the instalation. 
 
