@@ -31,7 +31,7 @@ Connect remotely to the server.
    * You will likely get a message asking you to confirm if you want to connect to the server if it is the first time connecting. Type Yes in order to proceed with connecting to the server. 
    * You will likely be asked to enter your password and you should enter the one provided by the school in order to finish connecting to the server. 
    
-   `The terminal protects your password so that people arround you cannot see by not showcasing it on the terminal. Do not get worried if you do not see anything come     on your screen while you are typing`
+   ` *Do not get worried if you do not see anything come on your screen while you are typing your password. The terminal does not show whatever you are typing for security reasons* `
 
 ## Running Commands: 
 
