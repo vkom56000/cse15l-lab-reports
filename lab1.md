@@ -1,7 +1,7 @@
 ## Installing VS Code: 
 To install VS code go to the following website [Link](https://code.visualstudio.com/) and click the download button.
 
-![Image](https://github.com/vkom56000/cse15l-lab-reports/blob/main/vs%20code%20.png)
+![Image](vs code .png)
 
 * My Laptop already had VS Code installed on it so I did not have to do anything in order to install VS code for this lab.
       
@@ -12,7 +12,7 @@ Once the file is downloaded open the downloaded file and accept the terms and co
 * My Laptop already had VS Code installed on it so I did not have to do anything in order to install VS code for this lab. 
 
 Once VS code is installed it will display a screen like this:
-![Image](https://github.com/vkom56000/cse15l-lab-reports/blob/main/vs%20code1.png)
+![Image](vs code1.png)
 ## Remotely Connecting: 
 Look up your CSE 15L account using this link [Link](https://sdacs.ucsd.edu/~icc/index.php).
    * Once you click the link it should ask you for your personal school information. 
