@@ -19,7 +19,6 @@ Look up your CSE 15L account using this link [Link](https://sdacs.ucsd.edu/~icc/
    * Prove the right information and it will redirect you to your account username. 
    * Make sure to remember or save this username for later steps.
 
-Your username is shown here:
 ![Image](https://github.com/vkom56000/cse15l-lab-reports/blob/main/lookup.png)
    
 Install Git for windows using this link [Link](https://gitforwindows.org/).
