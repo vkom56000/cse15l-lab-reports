@@ -1,9 +1,12 @@
 ## Installing VS Code: 
 To install VS code go to the following website ([Link](https://code.visualstudio.com/)) and click the download button.
+
     * My Laptop already had VS Code installed on it so I did not have to do anything in order to install VS code for this lab.
-Then choose the correct operating system and click download. 
+      Then choose the correct operating system and click download. 
+
     * My Laptop already had VS Code installed on it so I did not have to do anything in order to install VS code for this lab. 
 Once the file is downloaded open the downloaded file and accept the terms and conditions. Then it should begin downloading VS code on your laptop.
+
     * My Laptop already had VS Code installed on it so I did not have to do anything in order to install VS code for this lab. 
 
 ![Image](vs code .png)
@@ -11,8 +14,11 @@ Once the file is downloaded open the downloaded file and accept the terms and co
 
 ## Remotely Connecting: 
 Look up your CSE 15L account using this link ([Link](https://sdacs.ucsd.edu/~icc/index.php))
-   * Once you click the link it should ask you for your personal school information. Providing the right information will redirect you to your account username. Make sure to remember this username.
+
+   * Once you click the link it should ask you for your personal school information. Providing the right information will redirect you to your account username. Make        sure to remember this username.
+
 Install Git for windows using this link ([Link](https://gitforwindows.org/))
+
    * Click Download. Once the file is finished downloading open the file and then select the preferences and finish the instalation. 
 Open VS Code and change the default terminal in VS code to git-bash
    * Use the directions in this link ([Link](https://stackoverflow.com/a/50527994)) in order to change the default terminal to git-bash. 
