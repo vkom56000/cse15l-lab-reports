@@ -40,7 +40,7 @@ Connect remotely to the server.
    `Note: The terminal does not show whatever you are typing while entering the password for security reasons`
 
 Once you are finished connecting it should display a message like this:
-![](server login.png)
+![](server.png)
 
 ## Running Commands: 
 
