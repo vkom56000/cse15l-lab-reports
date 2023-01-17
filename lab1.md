@@ -11,13 +11,15 @@ Then choose the correct operating system and click download.
 Once the file is downloaded open the downloaded file and accept the terms and conditions. Then it should begin downloading VS code on your laptop
 * My Laptop already had VS Code installed on it so I did not have to do anything in order to install VS code for this lab. 
 
-
+Once VS code is installed it will display a screen like this
+![Image]([https://github.com/vkom56000/cse15l-lab-reports/blob/main/vs%20code%20.png](https://github.com/vkom56000/cse15l-lab-reports/blob/main/vs%20code%20.png))
 ## Remotely Connecting: 
 Look up your CSE 15L account using this link ([Link](https://sdacs.ucsd.edu/~icc/index.php)).
    * Once you click the link it should ask you for your personal school information. 
    * Prove the right information and it will redirect you to your account username. 
    * Make sure to remember or save this username for later steps.
 
+This username is shown here.
 ![Image](https://github.com/vkom56000/cse15l-lab-reports/blob/main/lookup.png)
    
 Install Git for windows using this link ([Link](https://gitforwindows.org/))
