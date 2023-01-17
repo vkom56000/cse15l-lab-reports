@@ -1,7 +1,7 @@
 ## Installing VS Code: 
 To install VS code go to the following website [Link](https://code.visualstudio.com/) and click the download button.
 
-![Image](vs code .png)
+![](vs code .png)
 
 * My Laptop already had VS Code installed on it so I did not have to do anything in order to install VS code for this lab.
       
@@ -38,7 +38,7 @@ Connect remotely to the server.
    `Note: The terminal does not show whatever you are typing while entering the password for security reasons`
 
 Once you are finished connecting it should display a message like this:
-![Image](https://github.com/vkom56000/cse15l-lab-reports/blob/main/server%20login.png)
+![](https://github.com/vkom56000/cse15l-lab-reports/blob/main/server%20login.png)
 
 ## Running Commands: 
 
@@ -46,5 +46,5 @@ Now that you are connected to the server you can run some commands by just typin
    * Type in whichever command you want to use and click enter and it should execute the command. 
    * For example if you type in "ls -lat" command into the terminal this should be the result. 
 
- ![Image](https://github.com/vkom56000/cse15l-lab-reports/blob/main/command%20.png)
+ ![](https://github.com/vkom56000/cse15l-lab-reports/blob/main/command%20.png)
 
