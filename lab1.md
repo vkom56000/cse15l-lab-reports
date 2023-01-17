@@ -13,18 +13,25 @@ Once the file is downloaded open the downloaded file and accept the terms and co
 
 ## Remotely Connecting: 
 Look up your CSE 15L account using this link ([Link](https://sdacs.ucsd.edu/~icc/index.php))
-   * Once you click the link it should ask you for your personal school information. Providing the right information will redirect you to your account username. Make        sure to remember this username.
+   * Once you click the link it should ask you for your personal school information. 
+   * Prove the right information and it will redirect you to your account username. 
+   * Make sure to remember or save this username for later steps.
    
 Install Git for windows using this link ([Link](https://gitforwindows.org/))
-   * Click Download. Once the file is finished downloading open the file and then select the preferences and finish the instalation. 
+   * Click Download. 
+   * Once the file is finished downloading open the file and then select the suitable preferences and finish the instalation. 
 
 Open VS Code and change the default terminal in VS code to git-bash
-   * Use the directions in this link ([Link](https://stackoverflow.com/a/50527994)) in order to change the default terminal to git-bash. 
+   * Use the directions in this link ([Link](https://stackoverflow.com/a/50527994)) in order to change the default terminal to git-bash.
+   * Remember you can toggle between the different terminals using the dropdown menu.
+   * Stay in the Git-Bash terminal for the next steps. 
 
 Connect remotely to the server. 
    * in the new terminal in VS Code from the previous step type in "ssh " followed by your specific username found in the earlier step with a "@ieng6.ucsd.edu" added on to it. 
    * You will likely get a message asking you to confirm if you want to connect to the server if it is the first time connecting. Type Yes in order to proceed with connecting to the server. 
    * You will likely be asked to enter your password and you should enter the one provided by the school in order to finish connecting to the server. 
+   
+   'The terminal protects your password so that people arround you cannot see by not showcasing it on the terminal. Do not get worried if you do not see anything come     on your screen while you are typing'
 
 ## Running Commands: 
 
