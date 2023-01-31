@@ -63,6 +63,6 @@ Some other commands that are useful are:
 
 You can use these commands create new directories to organize files.
 
-"is a directory" is an error that may be generated if you try to perform an operation on a directory that can only be performed on a file. 
+"is a directory" is an error that may be generated if you try to perform an operation on a directory that can only be performed on a file so be careful. 
 
 Click Ctrl + D to log out of the connection.
