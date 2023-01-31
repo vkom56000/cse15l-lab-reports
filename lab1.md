@@ -50,16 +50,16 @@ Now that you are connected to the server you can run some commands by just typin
 
 ![](command.png)
 
-I learnt ls method is used to list the files in the directory. The addition of the -l makes it so that the files are formatted laterally. The -a makes it so that even the hidden files are displayed. The -t makes it so that the times and dates of the files are displayed and also used to sort the files. 
+I learnt `ls` method is used to list the files in the directory. The addition of the `-l` makes it so that the files are formatted laterally. The `-a` makes it so that even the hidden files are displayed. The `-t` makes it so that the times and dates of the files are displayed and also used to sort the files. 
 
-Thus the ls - lat lists all the files in a lateral format with the hidden files that have dots and the times of the files. 
+Thus the `ls -lat` lists all the files in a lateral format with the hidden files that have dots and the times of the files. 
 
 Some other commands that are useful are:
-* cp: The cp command copies a file into the home direcotry. 
-* mkdir: The mkdir command creates a new directory in the current location.
-* pwd: The pwd command prints the working directory.
-* cd: The cd command changes the current directory to the given path. 
-* cat: which displays the files
+* `cp`: The cp command copies a file into the home direcotry. 
+* `mkdir`: The mkdir command creates a new directory in the current location.
+* `pwd`: The pwd command prints the working directory.
+* `cd`: The cd command changes the current directory to the given path. 
+* `cat`: which displays the files
 
 You can use these commands create new directories to organize files.
 
