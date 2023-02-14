@@ -69,8 +69,8 @@ The HandleRequest method is called for the following screenshot. This method is 
 
 ## Symtoms: 
 
-![Image](lab2Symptom.png)
-![Image](lab2Symptom2.png)
+![Image](Lab2Symptom.png)
+![Image](Lab2Symtom2.png)
 
 ## Before: 
 ```
