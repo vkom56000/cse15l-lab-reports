@@ -69,7 +69,10 @@ The HandleRequest method is called for the following screenshot. This method is 
 
 ## Symtoms: 
 
+Failure Inducing input:
 ![Image](Lab2Symptom.png)
+
+No Failure Inducing input:
 ![Image](Lab2Symtom2.png)
 
 ## Before: 
