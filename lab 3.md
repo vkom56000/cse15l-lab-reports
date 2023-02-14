@@ -1,6 +1,6 @@
-Grep Commands:
+# **Grep Commands:** 
 
-grep -rl 
+## grep -rl 
 
 ```
 vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/lab 4 real/docsearch/written_2 (main)
@@ -36,7 +36,7 @@ travel_guides/berlitz2/Boston-WhereToGo.txt
 ```
 This command searches recursively and lists all the files that contain the word candid. Basically it starts at the directory it was called in and it goes to each of the sub directories and all their files and searches to see if it contains the word. The output shows all the files in written2 that contain the word candid. 
 
-grep -n
+## grep -n
 
 ```
 vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/lab 4 real/docsearch/written_2/travel_guides/berlitz2 (main)
@@ -52,8 +52,8 @@ vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/lab 4 real/docsearch/written_2/travel_
 ```
 This command looks through the file to see if the specific word exists and every time it exists it returns the line number along with the entire line. In this case it is looking for the word "weather". This can be useful if you want to find a specific line in which the word exists. 
 
+## grep -v 
 
-grep -v 
 ```
 vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/lab 4 real/docsearch/written_2/travel_guides/berlitz2 (main)
 $ grep -v "a" Bahamas-History.txt
@@ -79,7 +79,7 @@ The Third Reich
 
 This command looks through the file for a particular word and it inverts it so that all the lines that do not contain the word are returned instead. This example was run on a different file from the one before. It can be useful if you want to find if any lines in a file do not contain a word that they are supposed to. 
 
-grep -E
+## grep -E
 ```
 vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/lab 4 real/docsearch/written_2/travel_guides/berlitz2 (main)
 $ grep -E '[0-9]{4}' Berlin-WhatToDo.txt
@@ -97,7 +97,8 @@ If you want to take back an edible souvenir, make sure you know your country’s
 ```
 This command looks for a specific pattern in a particular file. In the example above E is followed by '[a-z]{17}' which means that the command is looking for any 17 length string that contains any value between a and z. The return value of the command is all the lines that containt he following pattern. This can be useful in the following way if you want to find a really long word in a file. 
 
-For all of my command lines that I found I used chat gpt. I used the following promt to guide it to give me these examples:
+## Citation: 
+For all of my command alternate lines prompts that I used I found using chat gpt. The following promt  gave me the examples:
 ```
 can u list 4 alternate ways to use the grep command  and make sure they are interesting and unique  in bash 
 ```
