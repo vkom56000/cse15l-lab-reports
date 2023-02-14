@@ -2,7 +2,8 @@
 
 ## grep -rl 
 
-``` red: 
+``` c
+#include <stdio.h>
 vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/lab 4 real/docsearch/written_2 (main)
 $ grep -rl "frightening"
 non-fiction/OUP/Berk/CH4.txt
