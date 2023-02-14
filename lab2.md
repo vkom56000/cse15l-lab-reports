@@ -1,6 +1,6 @@
 # Part 1
 
- ## String Server Code
+ ## String Server Code:
 
 ```
 import java.io.IOException;
