@@ -2,7 +2,7 @@
 
 ## grep -rl 
 
-``` c red
+```
 
 vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/lab 4 real/docsearch/written_2 (main)
 $ grep -rl "frightening"
