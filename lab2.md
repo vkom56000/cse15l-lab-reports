@@ -2,7 +2,7 @@
 
  ## String Server Code:
 
-```
+```json 
 import java.io.IOException;
 import java.net.URI;
 
