@@ -37,6 +37,7 @@ class StringServer {
 ```
 
 ![Image] https://github.com/vkom56000/cse15l-lab-reports/blob/main/lab2Example1.png 
+
 The handleRequest method is called for the following screenshot. The method takes in a URL as its paramerter. The code then checks if the the url contains the /add-message path and if it does then it gets the query. It stores it in a string array and returns the requested string onto the website. There is also the page string to keep track of all the added messages. The page string is initially empty and as a new request to append a message is sent it handles it by adding it onto the page string. For this example the request was a string "Hi". So no values got changed because the message we wanted to add was a string and it got converted into a string. 
 
 The HandleRequest method is called for the following screenshot. This method is the same as before and it also takes in a URL as its parameter. As shown in the example since the url contains a /add-message path it stores the request in a string array. The page string already has two requrests added onto it and it kept track of those strings. This time we passed in an integer value in the request however it is now a string. The value was able to be put into the string array parameters so it is now a string. 
