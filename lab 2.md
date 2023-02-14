@@ -36,6 +36,8 @@ class StringServer {
 }
 ```
 
+## /add-message examples:
+
 ![Image](lab2Example1.png)
 
 The handleRequest method is called for the following screenshot. The method takes in a URL as its paramerter. The code then checks if the the url contains the /add-message path and if it does then it gets the query. It stores it in a string array and returns the requested string onto the website. There is also the page string to keep track of all the added messages. The page string is initially empty and as a new request to append a message is sent it handles it by adding it onto the page string. For this example the request was a string "Hi". So no values got changed because the message we wanted to add was a string and it got converted into a string. 
@@ -65,7 +67,7 @@ The HandleRequest method is called for the following screenshot. This method is 
   }
 ```
 
-## Symtom: 
+## Symtoms: 
 
 ![Image](lab2Symptom.png)
 ![Image](lab2Symptom2.png)
