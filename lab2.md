@@ -94,7 +94,6 @@ static void reverseInPlace(int [] arr){
     }
   }
 ```
-
 The original program was traversing through the array and at each index i it would replace it with the value at the last index - i. However this is a problem because the original value at i would get lost. Since we want to reverse the array the original value is necessary for the array to be properly reversed. A better approach would be to swap both the index at i and the last index minus i. The new code correctly applies that concept. It only traverses half the number of times as the original code and each time it replces the index at i with the last index minus i and vice versa. This is accomplished by having a temporary variable to store the value of the index at i. 
 
 # Part 3 
