@@ -2,7 +2,7 @@
 
  ## String Server Code:
 
-```white
+```blue
 
 import java.io.IOException;
 import java.net.URI;
