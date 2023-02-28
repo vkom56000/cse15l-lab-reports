@@ -1,11 +1,14 @@
 step 4: 
  
 ssh cs15wi23anv@ieng6.ucsd.edu
+
 ![Image](lab4 1.png)
+
 step 5: 
   git clone <ctrl+v>
   
   the ctrl + v keyboard shortcut allowed me to copy the repository link making it easier to clone. 
+  
   ![Image](lab4 2.png) 
   
 step 6: 
