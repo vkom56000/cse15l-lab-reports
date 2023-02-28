@@ -51,4 +51,4 @@ Step 9: git add L```<tab> j<tab>```
   
         
   
-The commands I ran that helped me the most 
+The commands I ran that helped me the most are the ctrl + r that allows me to search the terminal for any previous commands. This saved me a lot of time. Before I was switching back to my browser and recopying the command posted in lab 3. With this new shortcut I can just go up to the previous time I ran the command and copy it. The tab command is also very useful as it lets me auto complete the sentence. 
