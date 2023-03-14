@@ -1,10 +1,10 @@
 
-## previous commands
+## Previous Commands
 In lab report 3 we were asked to choose one command and find 4 new ways to use them. I decided to use the grep command and I found 4 alternate ways to use the grep command. The first alternate way I found to use grep was. ``grep -rl "word`` this command searches recursively and lists all the files that contain the word frightening. The second alternate way I found to use grep was `` grep -n "word FileName`` This command lists the line number of where a specific word exists in a file. The output shows the line number first and then the entire line listed out for you. The third alternate way I found to use grep was ``grep -v "word" FileName`` This command looks throuh the file for a particular word and it inverts it so that all the lines that do not contain the word are returned instead. The final alterate way I found to use grep was `` grep -E '[character range]{# of characters}' FileName``. This method looks for a specific character range in the words and the number of characters allowed and returned all the lines that contain instances that pass the conditions. 
 
-## new commands
+## New Commands
 
-4 alternates ways to use the find command are:
+Four alternates ways to use the find command are:
 ```
 vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/docsearch (main)
 $ find written_2 *txt f mtime +30 -exec rm {} \;
