@@ -1,0 +1,1 @@
+In lab report 3 we were asked to choose one command and find 4 new ways to use them. I decided to use the grep command and I found 4 alternate ways to use the grep command. The first alternate way i found to use grep was. 
