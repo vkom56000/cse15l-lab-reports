@@ -4,7 +4,7 @@ In lab report 3 we were asked to choose one command and find 4 new ways to use t
 
 ## New Commands
 
-** Four alternates ways to use the find command are:**
+**Four alternates ways to use the find command are:**
 
 ```
 vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/docsearch (main)
