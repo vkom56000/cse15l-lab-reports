@@ -24,7 +24,7 @@ rm: cannot remove 'written_2/travel_guides/berlitz2': Is a directory
 ```
 
  
-This method find the number of text files in a directory that are edited within 30 days and removes them. The command can be adjusted to remove differne types of files by chaning the txt part. It can also be adjusted to have a different time frame instead of 30 days. In the example above the written_2 directory was used but any directory can be used. This method removed all the files in the written 2 directory because I just cloned the directory so all the files would be edited within 30 days. 
+This method find the number of text files in a directory that are edited within 30 days and removes them. The command can be adjusted to remove differnet types of files by chaning the txt part. It can also be adjusted to have a different time frame instead of 30 days. In the example above the written_2 directory was used but any directory can be used. This method removed all the files in the written 2 directory because I just cloned the directory so all the files would be edited within 30 days. 
 
 ```
 vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/docsearch (main)
