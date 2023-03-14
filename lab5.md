@@ -50,7 +50,7 @@ This method returns the number of empty directories. This command returned all t
 vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/docsearch (main)
 $ find written_2 -type d -empty -delete
 ```
-This mehtod removes all the empty directories. This can be very useful to make sure directories that are empty are properly removed. In this case all the empty directories of written_2 were removed. 
+This method removes all the empty directories. This can be very useful to make sure directories that are empty are properly removed. In this case all the empty directories of written_2 were removed. 
 
 ```
 vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/docsearch/docsearch (main)
