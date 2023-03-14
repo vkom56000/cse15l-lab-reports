@@ -4,7 +4,8 @@ In lab report 3 we were asked to choose one command and find 4 new ways to use t
 
 ## New Commands
 
-Four alternates ways to use the find command are:
+** Four alternates ways to use the find command are:**
+
 ```
 vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/docsearch (main)
 $ find written_2 *txt f mtime +30 -exec rm {} \;
@@ -66,7 +67,8 @@ written_2/travel_guides/berlitz1/HandRMallorca.txt
 ```
 This mehtod finds the number of files of type f in a given directory that are within a specific size range. In this example above I re-cloned the directory so it contains the files it originally contained. The range was 1024c to 2048c and the output was as shown. The command words for any directory. 
 
-Two alternate ways to use the less command are:
+**Two alternate ways to use the less command are:** 
+
 ```
 less /path/to/compressed/file.gz
 ```
