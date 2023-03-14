@@ -23,14 +23,14 @@ rm: cannot remove 'written_2/travel_guides/berlitz2': Is a directory
 ```
 
  
-This method find the number of text files in a directory that are edited within 30 days and removes them. The command can be adjusted to remove differne types of files by chaning the txt part. It can also be adjusted to have a different time frame instead of 30 days. This method removed all the files in the written 2 directory because I just cloned the directory so all the files would be edited within 30 days. 
+This method find the number of text files in a directory that are edited within 30 days and removes them. The command can be adjusted to remove differne types of files by chaning the txt part. It can also be adjusted to have a different time frame instead of 30 days. In the example above the written_2 directory was used but any directory can be used. This method removed all the files in the written 2 directory because I just cloned the directory so all the files would be edited within 30 days. 
 
 ```
 vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/docsearch (main)
 $ find written_2/ -type f -mtime -7
 ```
 
-This method finds the number of text files in a directory within 7 days. The command can be adjusted to find files edited in different time frames. In this case the return was nothing since the directory was empty from our previous command. 
+This method finds the number of text files in a directory within 7 days. The command can be adjusted to find files edited in different time frames. In the example above the written_2 directory was used. In this case the return was nothing since the directory was empty from our previous command. 
 
 ```
 vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/docsearch (main)
@@ -44,7 +44,7 @@ written_2/non-fiction/OUP/Rybczynski
 written_2/travel_guides/berlitz1
 written_2/travel_guides/berlitz2
 ```
-This method returns the number of empty directories. This command returned all the directories in the written_2 direcotry because all the directories had their text files removed from the previous command. 
+This method returns the number of empty directories. This command returned all the directories in the written_2 direcotry because all the directories had their text files removed from the previous command. This command can be very useful to keep track of which directories are empty. 
 
 ```
 vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/docsearch (main)
@@ -64,7 +64,7 @@ written_2/travel_guides/berlitz1/HandRLosAngeles.txt
 written_2/travel_guides/berlitz1/HandRMadeira.txt
 written_2/travel_guides/berlitz1/HandRMallorca.txt
 ```
-This mehtod finds the number of files of type f in a given directory that are within a specific size range. In this case I re-cloned the directory so it contains the files it originally contained. The range was 1024c to 2048c and the output was as follows. 
+This mehtod finds the number of files of type f in a given directory that are within a specific size range. In this example above I re-cloned the directory so it contains the files it originally contained. The range was 1024c to 2048c and the output was as shown. 
 
 Two alternate ways to use the less command are:
 ```
