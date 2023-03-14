@@ -30,7 +30,7 @@ vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/docsearch (main)
 $ find written_2/ -type f -mtime -7
 ```
 
-This method finds the number of text files in a directory within 7 days. The command can be adjusted to find files edited in different time frames. In the example above the written_2 directory was used. In this case the return was nothing since the directory was empty from our previous command. 
+This method finds the number of text files in a directory within 7 days. The command can be adjusted to find files edited in different time frames. In the example above the written_2 directory was used but any directory can be used. In this case the return was nothing since the directory was empty from our previous command. 
 
 ```
 vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/docsearch (main)
@@ -44,13 +44,13 @@ written_2/non-fiction/OUP/Rybczynski
 written_2/travel_guides/berlitz1
 written_2/travel_guides/berlitz2
 ```
-This method returns the number of empty directories. This command returned all the directories in the written_2 direcotry because all the directories had their text files removed from the previous command. This command can be very useful to keep track of which directories are empty. 
+This method returns the number of empty directories. This command returned all the directories in the written_2 direcotry because all the directories had their text files removed from the previous command. This command can be very useful to keep track of which directories are empty. In this example written_2 directory was used but any directory can be used.
 
 ```
 vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/docsearch (main)
 $ find written_2 -type d -empty -delete
 ```
-This method removes all the empty directories. This can be very useful to make sure directories that are empty are properly removed. In this case all the empty directories of written_2 were removed. 
+This method removes all the empty directories. This can be very useful to make sure directories that are empty are properly removed. In this case all the empty directories of written_2 were removed. In the example above written_2 directory was used but any directory can b e used. 
 
 ```
 vkom5@DESKTOP-CL5JJTR MINGW64 ~/Downloads/docsearch/docsearch (main)
@@ -64,7 +64,7 @@ written_2/travel_guides/berlitz1/HandRLosAngeles.txt
 written_2/travel_guides/berlitz1/HandRMadeira.txt
 written_2/travel_guides/berlitz1/HandRMallorca.txt
 ```
-This mehtod finds the number of files of type f in a given directory that are within a specific size range. In this example above I re-cloned the directory so it contains the files it originally contained. The range was 1024c to 2048c and the output was as shown. 
+This mehtod finds the number of files of type f in a given directory that are within a specific size range. In this example above I re-cloned the directory so it contains the files it originally contained. The range was 1024c to 2048c and the output was as shown. The command words for any directory. 
 
 Two alternate ways to use the less command are:
 ```
